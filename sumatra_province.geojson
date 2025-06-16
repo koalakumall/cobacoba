@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aceh",
+        "population_total": 5275000,
+        "population_urban": 1899000,
+        "population_rural": 3376000,
+        "gdp": 245780,
+        "poverty_rate": 15.32,
+        "unemployment_rate": 5.8,
+        "land_forest": 45,
+        "land_agriculture": 30,
+        "land_urban": 10,
+        "land_water": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Sumatra",
+        "population_total": 14780000,
+        "population_urban": 6800000,
+        "population_rural": 7980000,
+        "gdp": 587420,
+        "poverty_rate": 9.45,
+        "unemployment_rate": 4.7,
+        "land_forest": 35,
+        "land_agriculture": 40,
+        "land_urban": 15,
+        "land_water": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Sumatra",
+        "population_total": 5340000,
+        "population_urban": 2136000,
+        "population_rural": 3204000,
+        "gdp": 198560,
+        "poverty_rate": 8.12,
+        "unemployment_rate": 4.2,
+        "land_forest": 50,
+        "land_agriculture": 25,
+        "land_urban": 15,
+        "land_water": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riau",
+        "population_total": 6780000,
+        "population_urban": 3661000,
+        "population_rural": 3119000,
+        "gdp": 745320,
+        "poverty_rate": 7.85,
+        "unemployment_rate": 5.1,
+        "land_forest": 40,
+        "land_agriculture": 35,
+        "land_urban": 10,
+        "land_water": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jambi",
+        "population_total": 3540000,
+        "population_urban": 1239000,
+        "population_rural": 2301000,
+        "gdp": 156780,
+        "poverty_rate": 10.25,
+        "unemployment_rate": 5.5,
+        "land_forest": 55,
+        "land_agriculture": 25,
+        "land_urban": 10,
+        "land_water": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Sumatra",
+        "population_total": 8360000,
+        "population_urban": 3846000,
+        "population_rural": 4514000,
+        "gdp": 312450,
+        "poverty_rate": 11.78,
+        "unemployment_rate": 5.3,
+        "land_forest": 40,
+        "land_agriculture": 35,
+        "land_urban": 15,
+        "land_water": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengkulu",
+        "population_total": 1950000,
+        "population_urban": 682500,
+        "population_rural": 1267500,
+        "gdp": 85670,
+        "poverty_rate": 14.56,
+        "unemployment_rate": 6.2,
+        "land_forest": 60,
+        "land_agriculture": 20,
+        "land_urban": 10,
+        "land_water": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lampung",
+        "population_total": 8260000,
+        "population_urban": 3304000,
+        "population_rural": 4956000,
+        "gdp": 278910,
+        "poverty_rate": 13.45,
+        "unemployment_rate": 5.9,
+        "land_forest": 30,
+        "land_agriculture": 45,
+        "land_urban": 15,
+        "land_water": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangka Belitung",
+        "population_total": 1450000,
+        "population_urban": 652500,
+        "population_rural": 797500,
+        "gdp": 123450,
+        "poverty_rate": 8.75,
+        "unemployment_rate": 4.8,
+        "land_forest": 35,
+        "land_agriculture": 25,
+        "land_urban": 20,
+        "land_water": 20
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riau Islands",
+        "population_total": 2100000,
+        "population_urban": 1260000,
+        "population_rural": 840000,
+        "gdp": 187650,
+        "poverty_rate": 6.89,
+        "unemployment_rate": 4.1,
+        "land_forest": 25,
+        "land_agriculture": 20,
+        "land_urban": 35,
+        "land_water": 20
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[...]]
+      }
+    }
+  ]
+}
