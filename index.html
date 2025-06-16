@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sumatra Provinces GIS</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div id="header">
+        <h1><i class="fas fa-map-marked-alt"></i> Statistik Demografi Pulau Sumatera 2024</h1>
+    </div>
+    <div class="app-container">
+        <div id="map-container"></div>
+        
+        <div id="sidebar">
+            <div class="sidebar-header">
+                <h2>Province Statistics</h2>
+                <button id="close-sidebar" class="close-btn">&times;</button>
+            </div>
+            <div id="chart-container">
+                <div class="chart-card">
+                    <h3 class="chart-title">Perbandingan Jumlah Penduduk Laki-laki dan Perempuan</h3>
+                    <canvas id="laki_perempuan_penduduk-chart"></canvas>
+                </div>
+                
+                <div class="chart-card">
+                    <h3 class="chart-title">Rata-rata Pengeluaran per Kapita Sebulan Makanan dan Bukan Makanan</h3>
+                    <canvas id="Peng_F_NF-chart"></canvas>
+                </div>
+                
+                <div class="chart-card">
+                    <h3 class="chart-title">Penduduk Berumur 15 Tahun Keatas yang Bekerja</h3>
+                    <canvas id="laki_perempuan_kerja-chart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Custom JS -->
+    <script src="chart-config.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
